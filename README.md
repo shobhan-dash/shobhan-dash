@@ -1,4 +1,4 @@
-<h3 align="center">Hey There! I am Shobhan Dash</h3>
+<h3 align="center">Hey There!</h3>
 
 ###
 
