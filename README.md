@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-2b2a.vercel.app/api?username=shobhan-dash&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-2b2a.vercel.app/api?username=shobhan-dash&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-2b2a.vercel.app/api/top-langs?username=shobhan-dash&hide=Jupyter%20Notebook,css&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2&count_weight=0.25&size_weight=1" height="150" alt="languages graph"  />
 </div>
 
